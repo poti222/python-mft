@@ -8,7 +8,7 @@ Country
 Password
 PasswordReset
 AccountSettings
-Session
+Profile
 
 SignUpPage
 LoginPage
@@ -45,3 +45,9 @@ Moderator
 Permission
 UserReport
 BanList
+
+SiteAddress
+BotVersion
+SiteName
+ProjectName
+
