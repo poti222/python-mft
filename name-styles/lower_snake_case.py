@@ -36,6 +36,12 @@ students_number
 teachers_name
 lesson_name
 
+site_version
+bot_version
+server_ip
+server_name
+project_name
+
 follow_user
 unfollow_user
 like_user
